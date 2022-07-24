@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://warfieldwang.github.io</id>
+    <title>老王的奇妙基地</title>
+    <updated>2022-07-24T13:41:10.119Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://warfieldwang.github.io"/>
+    <link rel="self" href="https://warfieldwang.github.io/atom.xml"/>
+    <subtitle>I Dwell In Possibility </subtitle>
+    <logo>https://warfieldwang.github.io/images/avatar.png</logo>
+    <icon>https://warfieldwang.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2022, 老王的奇妙基地</rights>
+    <entry>
+        <title type="html"><![CDATA[你也想起舞吗]]></title>
+        <id>https://warfieldwang.github.io/ni-ye-xiang-qi-wu-ma/</id>
+        <link href="https://warfieldwang.github.io/ni-ye-xiang-qi-wu-ma/">
+        </link>
+        <updated>2022-07-23T12:41:57.000Z</updated>
+        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://warfieldwang.github.io/post-images/1658580232892.jpg" alt="" loading="lazy"></figure>
+]]></content>
+    </entry>
+</feed>
